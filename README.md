@@ -3,8 +3,8 @@
 <img src="./imgs/letters animation.gif"/>
 
 ### Links
-- Solution URL: [Here]().
-- Live Site URL: [Here]().
+- Solution URL: [Here](https://github.com/RyanAbdaul/EL-Letters-Animations).
+- Live Site URL: [Here](https://ryanabdaul.github.io/EL-Letters-Animations/).
 
 ### Social Media
 - On Instagram - [@ryan.abdaul](https://www.instagram.com/ryan.abdaul/).
